@@ -1,0 +1,1 @@
+ffmpeg -i img%03d.png -r 25 out.mp4 # Example
